@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mereena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mereena\\.nuget\\packages"
+    ]
+  }
+}
